@@ -6,3 +6,4 @@ public class Main{
         System.out.printf("Hello, %s","world");
         Scanner scanner = new Scannner(System.in);
     }
+}
